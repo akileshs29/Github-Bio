@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Akilesh. a fullStack Developer!" src="./image/header.png" />s
+  <img width="80%" alt="Hello, I'm Akilesh. a fullStack Developer!" src="./image/header.png" />
 </p>
 
 ## About me
