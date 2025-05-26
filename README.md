@@ -11,7 +11,7 @@
 - **Languages:** ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 - **Frameworks:** ![React](https://img.shields.io/badge/Framework-React-blue) ![Node.js](https://img.shields.io/badge/Framework-Node.js-green)
 - **Database:** ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green) ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-- **Tools:** ![Git](https://img.shields.io/badge/Tool-Git-black) ![VS Code](https://img.shields.io/badge/Tool-VS%20Code-blue)
+- **Tools:** ![Git](https://img.shields.io/badge/Tool-Git-green) ![VS Code](https://img.shields.io/badge/Tool-VS%20Code-blue)
 
 ## 🌐 Connect with me
 
@@ -36,7 +36,7 @@
 
 ## 🚀 Projects
 
-- **Credit Card Fraud Detection** → ML models: Logistic Regression, Random Forest, Gradient Boosting    
+- **Credit Card Fraud Detection** → ML models: Logistic Regression, Random Forest, Gradient Boosting  
 - **E-commerce Website** → Built with React, Node.js, MongoDB  
 
 ## 🏆 Achievements
@@ -44,4 +44,3 @@
 - Completed Full-Stack Bookstore Project  
 - Built Real-time E-commerce Website for local agencies  
 - Practicing LeetCode Java problems to sharpen coding skills  
-
